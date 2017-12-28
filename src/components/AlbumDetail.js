@@ -10,4 +10,3 @@ const AlbumDetail = (props) => {
 };
 
 export default AlbumDetail;
-
